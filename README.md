@@ -5,7 +5,7 @@ Github profile README
 
 💻 Aspiring **Full Stack Developer** | 🚀 Tech Enthusiast | 💡 Innovator
 
-I'm a passionate high school student, building my way up to become a software engineer. I love exploring web development, cloud computing, AI, and electric hardware projects.
+I'm a passionate high school student, building my way up to become a software engineer. I'm interested exploring web development, cloud computing, AI, and electric hardware projects.
 
 ---
 
