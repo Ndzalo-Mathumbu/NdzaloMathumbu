@@ -1,4 +1,4 @@
-# NdzaloMathumbu
+# Ndzalo NK Mathumbu
 Github profile README
 
 # 👋 Hey there, I'm Ndzalo NK Mathumbu!
