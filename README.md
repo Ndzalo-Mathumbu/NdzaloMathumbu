@@ -6,7 +6,7 @@ I'm a passionate high school student, building my way up to become a software en
 
 ---
 
-## 🌟 About Me
+## About Me
 
 - 🛠️ Learning Full Stack Development → `JavaScript`, `Node.js`, `Express.js`, `React.js`, `MongoDB`, `Python`, `SQL`, `C++`, `C`, `Java`, `C#`
 - ☁️ Exploring Cloud & DevOps → `AWS`, `Docker`, `CI/CD`, `Linux`, `Bash`
